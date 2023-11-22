@@ -1,0 +1,18 @@
+body {
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(360deg, #bdbd01 25.91%, rgb(255, 255, 255) 50.84%);
+    color:rgb(78, 78, 78);
+
+    
+}
+
+@media (max-width: 888px) {
+
+
+}
+
+
+
+
+
